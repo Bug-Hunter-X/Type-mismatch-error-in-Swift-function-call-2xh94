@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift: passing an argument of the wrong type to a function. The `calculateArea` function expects two integer values, but the call to the function provides a string for the `height` parameter. This leads to a compiler error. The solution involves ensuring that all function arguments have the correct type.
